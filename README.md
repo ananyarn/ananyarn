@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Reetha Noble</h1>
-<h3 align="center">Woman. Computer Engineer. FOSS Enthusiast. AI/ML Enthusiast. Blogger. Bookworm.</h3>
-<img src="https://github.com/ananyarn/ananyarn/assets/83545417/7eb6257e-802c-4abe-a1d5-0ae86b99e099">
+<h1 align="center">Hey👋, I'm Ananya Reetha Noble!</h1>
 
 - 🔭 I’m currently working on [Pseudo-code to Python Source Code Conversion Model](https://github.com/annawilson123/pseudocode-to-sourcecode)
 
@@ -13,6 +11,9 @@
 - 📄 Know about me [https://ananyarn.github.io/](https://ananyarn.github.io/)
 
 - ⚡ Han Solo Inspiration **"Never tell me the odds."**
+
+<img src="https://github.com/ananyarn/ananyarn/assets/83545417/7eb6257e-802c-4abe-a1d5-0ae86b99e099">
+<h3 align="center">Woman. Computer Engineer. FOSS Enthusiast. AI/ML Enthusiast. Blogger. Bookworm.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
