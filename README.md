@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Reetha Noble</h1>
 <h3 align="center">Woman. Computer Engineer. FOSS Enthusiast. AI/ML Enthusiast. Blogger. Bookworm.</h3>
+![something](https://github.com/ananyarn/ananyarn/assets/83545417/c1f284c4-f478-4692-bb55-ae70c5b0b820)
 
 - 🔭 I’m currently working on [Pseudo-code to Python Source Code Conversion Model](https://github.com/annawilson123/pseudocode-to-sourcecode)
 
