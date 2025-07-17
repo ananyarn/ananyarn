@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm Ananya Reetha Noble! </h1>
----
+
 **Computer Science Graduate | Aspiring Researcher | AI/ML Enthusiast | Blogger**
----
+
 
 ### 🔬 Currently
 
