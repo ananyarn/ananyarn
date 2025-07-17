@@ -3,7 +3,7 @@
 <p align="center"><strong>Computer Science Graduate | Aspiring Researcher | AI/ML Enthusiast | Blogger</strong></p>
 
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
+  <img src="GitHub Banner.png" alt="Banner" width="100%" />
 </p>
 
 ### 🔬 Current Focus
