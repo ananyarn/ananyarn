@@ -3,7 +3,7 @@
 <p align="center"><strong>Computer Science Graduate | Aspiring Researcher | AI/ML Enthusiast | Blogger</strong></p>
 
 <p align="center">
-  <img src="https://github.com/ananyarn/ananyarn/assets/83545417/7eb6257e-802c-4abe-a1d5-0ae86b99e099" alt="Banner" width="100%" />
+  <img src="Banner.png" alt="Banner" width="100%" />
 </p>
 
 ### 🔬 Current Focus
