@@ -3,7 +3,7 @@
 <p align="center"><strong>Computer Science Graduate | Aspiring Researcher | AI/ML Enthusiast | Blogger</strong></p>
 
 
-### 🔬 Currently
+### 🔬 Current Focus
 
 - **Project**:
 - **Researching**: 
